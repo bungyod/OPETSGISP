@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPETSG ISP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #e0f7fa, #b2ebf2);
+            color: #333;
+        }
+        header {
+            background: #00796b;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        h2 {
+            color: #00796b;
+        }
+        .plan {
+            background: #e0f2f1;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 5px;
+            box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 15px 0;
+            background: #00796b;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .contact-info {
+            margin-top: 20px;
+            font-size: 1.1em;
+        }
+        .socials {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>OPETSG ISP</h1>
+    <p>Your Reliable Internet Service Provider</p>
+</header>
+
+<div class="container">
+    <h2>Our Subscription Plans</h2>
+    
+    <div class="plan">
+        <h3>Plan 1</h3>
+        <p><strong>Speed:</strong> Up to 10 Mbps</p>
+        <p><strong>Price:</strong> Php 1,000/month</p>
+        <p>Ideal for basic browsing and streaming.</p>
+    </div>
+
+    <div class="plan">
+        <h3>Plan 2</h3>
+        <p><strong>Speed:</strong> Up to 20 Mbps</p>
+        <p><strong>Price:</strong> Php 1,699/month</p>
+        <p>Perfect for families and multiple devices.</p>
+    </div>
+
+    <h2>Contact Us</h2>
+    <div class="contact-info">
+        <p>Email: <a href="mailto:opetisp@gmail.com">opetisp@gmail.com</a></p>
+        <p>Phone: 0917-879-1704</p>
+        <div class="socials">
+            <p>Facebook: <a href="https://facebook.com/OpetSg12" target="_blank">opet sg</a></p>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 OPETSG ISP. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
